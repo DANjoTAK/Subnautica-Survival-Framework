@@ -1,0 +1,11 @@
+# Assemblies
+- 0Harmony-1.2.0.1
+- Assembly-CSharp-firstpass-publicized
+- Assembly-CSharp_publicized
+- Newtonsoft.Json
+- System.Core
+- UnityEngine.CoreModule
+- UnityEngine.IMGUIModule
+- UnityEngine.InputLegacyModule
+- UnityEngine.UI
+- UnityEngine_publicized
