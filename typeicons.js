@@ -2,7 +2,7 @@
     "use strict";
 
     function plugin(hook, vm) {
-        let mediapath = '/' + vm.config.basePath + '_media/';
+        let mediapath = window.location.pathname + 'icons/';
         //let iconStyle = `height: 1em;vertical-align: text-bottom;`;
         let iconStyle = `height:1em;vertical-align:inherit;`;
         let icons = {

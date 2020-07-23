@@ -2,7 +2,7 @@
     "use strict";
 
     function plugin(hook, vm) {
-        let mediapath = '/' + vm.config.basePath + '_media/';
+        let mediapath = window.location.pathname + 'icons/';
         var head = document.head || document.getElementsByTagName("head")[0];
         var stylesheet = document.createElement("style");
         stylesheet.type = "text/css";

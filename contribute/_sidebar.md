@@ -1,2 +1,0 @@
-[← Back](/)
-- [Assemblies](/contribute/assemblies)
